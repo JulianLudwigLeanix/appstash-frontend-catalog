@@ -7,7 +7,6 @@ tags:
 - "Pivio:Angular"
 - "Pivio:JavaScript"
 - "Pivio:TypeScript"
-- "Pivio:front-end"
 lifecycle: "production"
 links:
   vcsroot: "https://github.com/dominikrose-leanix/appstash-frontend-catalog.git"
