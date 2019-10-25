@@ -6,7 +6,6 @@ owner: "frontend@meshlab.de"
 tags:
 - "Pivio:Angular"
 - "Pivio:JavaScript"
-- "Pivio:TypeScript"
 lifecycle: "production"
 links:
   vcsroot: "https://github.com/dominikrose-leanix/appstash-frontend-catalog.git"
