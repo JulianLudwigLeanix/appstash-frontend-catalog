@@ -15,6 +15,5 @@ relations:
 - relApplicationToBusinessCapability:
   - "Customer Relationship"
 - relApplicationToUserGroup:
-  - "Australia"
   - "Brazil"
   - "Germany"
