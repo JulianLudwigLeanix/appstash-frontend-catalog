@@ -17,3 +17,4 @@ relations:
 - relApplicationToUserGroup:
   - "Australia"
   - "Brazil"
+  - "Germany"
